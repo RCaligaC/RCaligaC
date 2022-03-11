@@ -2,16 +2,7 @@
 <h2>É um prazer a sua visita!</h2>
 </div>
 </br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/RCaligaC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formandodev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
+
 </br>
  <div align="center">
 <div style="display: inline_block"><br>
@@ -30,4 +21,4 @@
   <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RCaligaC/count.svg" /></p>
+
