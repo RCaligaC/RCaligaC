@@ -1,11 +1,10 @@
 <div align="center">
-<h2>É um prazer a sua visita!</h2>
+<h1>É um prazer a sua visita!</h1>
 </div>
-</br>
 <h3>
- <h2>Meu objetivo atual é me tornar um profissional de TI...</h2>
-</h3>
-<h3>
+ <h2>
+ Meu objetivo atual é me tornar um profissional de TI...
+</h2>
  . Cursando Sistema para Internet na Descomplica Faculade Digital <br>
  . Realizando Fullstack na <a href="https://www.devaria.com.br" target="_blank">devaria.com.br</a> (HTML5, CSS3, JavaScript, Node.js, React, C#) <br>
  . Realizando Philips Fullstack Developer na <a href="https://www.dio.me/" target="_blank">Digital Innovation One</a> (Lógica de Programação, Flexbox em CSS, Angular) <br>
