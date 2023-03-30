@@ -8,6 +8,7 @@
  . Cursando Sistema para Internet na Descomplica Faculade Digital <br>
  . <br>
  . Participo da comunidade Let's Code no Discord, atualmente participando do programa Oracle One (FrontEnd) na parceria entre Oracle + Alura <br>
+ . Possuo certificados de cursos rápidos em JavaScript (Node.js, react) HTML e CSS, Java e Python nas plataformas Dio-me, Devaria, Let's Code, Terra Estudos, Udemy e Youtube
 </h3>
 </br>
  <div align="center">
