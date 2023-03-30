@@ -1,4 +1,7 @@
 <div align="center">
+ <p>
+  <img src="https://media.tenor.com/9HrOALyUZ6wAAAAC/mettaton-undertale.gif%22%3E" alt="Mettaton acenando" />
+</p>
 <h1>É um prazer a sua visita!</h1>
 </div>
 <h3>
