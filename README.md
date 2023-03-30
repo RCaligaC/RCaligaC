@@ -7,7 +7,7 @@
 </h2>
  . Cursando Sistema para Internet na Descomplica Faculade Digital <br>
  . <br>
- . Participo da comunidade Let's Code no Discord, atualmente participando do programa Oracle One <br>
+ . Participo da comunidade Let's Code no Discord, atualmente participando do programa Oracle One (FrontEnd) na parceria entre Oracle + Alura <br>
 </h3>
 </br>
  <div align="center">
