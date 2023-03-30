@@ -1,6 +1,6 @@
 <div align="center">
  <p>
-  <img src="https://media.tenor.com/9HrOALyUZ6wAAAAC/mettaton-undertale.gif%22%3E" alt="Mettaton acenando" />
+  <img src="[https://media.tenor.com/9HrOALyUZ6wAAAAC/mettaton-undertale.gif%22%3E" alt="Mettaton acenando" ](https://media.licdn.com/dms/image/C4D03AQFEbZ8DZkYmNw/profile-displayphoto-shrink_200_200/0/1646833553229?e=1685577600&v=beta&t=0lOVLuWzM32U6YFQ2pVbrAR8qS0whcFWYI31nfeDiKw)/>
 </p>
 <h1>É um prazer a sua visita!</h1>
 </div>
