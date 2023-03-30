@@ -3,7 +3,7 @@
 </div>
 <h3>
  <h2>
- Meu objetivo atual é me tornar um profissional de TI...
+ Meu objetivo atual é me tornar um Desenvolvedor FrontEnd
 </h2>
  . Cursando Sistema para Internet na Descomplica Faculade Digital <br>
  . Participo da comunidade Let's Code no Discord, atualmente participando do programa Oracle One (FrontEnd) na parceria entre Oracle + Alura <br>
