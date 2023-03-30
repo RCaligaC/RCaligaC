@@ -6,9 +6,8 @@
  Meu objetivo atual é me tornar um profissional de TI...
 </h2>
  . Cursando Sistema para Internet na Descomplica Faculade Digital <br>
- . Realizando Fullstack na <a href="https://www.devaria.com.br" target="_blank">devaria.com.br</a> (HTML5, CSS3, JavaScript, Node.js, React, C#) <br>
- . Realizando Philips Fullstack Developer na <a href="https://www.dio.me/" target="_blank">Digital Innovation One</a> (Lógica de Programação, Flexbox em CSS, Angular) <br>
- . Participando do Let's Code Pass <a href="https://letscode.com.br/lets-code-pass" target="_blank">Let's Code</a> (Python, Web React) <br>
+ . <br>
+ . Participo da comunidade Let's Code no Discord, atualmente participando do programa Oracle One <br>
 </h3>
 </br>
  <div align="center">
