@@ -6,8 +6,10 @@
  Meu objetivo atual é me tornar um Desenvolvedor FrontEnd
 </h2>
  . Cursando Sistema para Internet na Descomplica Faculade Digital <br>
- . Participo da comunidade Let's Code no Discord, atualmente participando do programa Oracle One (FrontEnd) na parceria entre Oracle + Alura <br>
- . Possuo certificados de cursos rápidos em JavaScript (Node.js, react) HTML e CSS, Java e Python nas plataformas Dio-me, Devaria, Let's Code, Terra Estudos, Udemy e Youtube
+ 
+ .Estudando na plataforma Alura, Turma 5: "challengeonedecodificador5" ONE (Oracle Next Education) com a Oracle+Alura no curso de Frontend.
+
+ . Possuo certificados de cursos rápidos em JavaScript (Node.js, react) HTML e CSS, Java e Python nas plataformas Dio-me, Devaria, Let's Code, Terra Estudos, Udemy e        atualmente fazendo parte da Turma 5 - ONE Oracle+Alura
 </h3>
 </br>
  <div align="center">
