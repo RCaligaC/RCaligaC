@@ -9,7 +9,7 @@
  
  .Estudando na plataforma Alura, Turma 5: "challengeonedecodificador5" ONE (Oracle Next Education) com a Oracle+Alura no curso de Frontend.
 
- . Possuo certificados de cursos rápidos em JavaScript (Node.js, react) HTML e CSS, Java e Python nas plataformas Dio-me, Devaria, Let's Code, Terra Estudos, Udemy e        atualmente fazendo parte da Turma 5 - ONE Oracle+Alura
+ . Possuo certificados de cursos rápidos em JavaScript (Node.js, react) HTML e CSS, Java e Python nas plataformas Dio-me, Devaria, Let's Code, Terra Estudos
 </h3>
 </br>
  <div align="center">
