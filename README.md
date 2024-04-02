@@ -3,7 +3,7 @@
 </div>
 <h3>
  <h2>
- Em Julho de 2023, sou Desenvolvedor FrontEnd Junior.
+   Desenvolvedor FrontEnd Junior.
 </h2>
  . Cursando Sistema para Internet na Descomplica Faculade Digital <br>
  
