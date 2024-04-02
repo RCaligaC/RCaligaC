@@ -7,7 +7,7 @@
 </h2>
  . Cursando Sistema para Internet na Descomplica Faculade Digital <br>
  
- .Concluida a formação Front End na plataforma Alura, programa ONE (Oracle Next Education), atualmente cursando React JS.
+ .Concluida a formação Front End na plataforma Alura, programa ONE (Oracle Next Education).
 
  . Possuo certificados de cursos rápidos em JavaScript (Node.js, react) HTML e CSS, Java e Python nas plataformas Dio-me, Devaria, Let's Code, Terra Estudos
 </h3>
