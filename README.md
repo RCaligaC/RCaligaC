@@ -11,9 +11,9 @@
  . Formação Front End concluida na plataforma Alura, programa ONE (Oracle Next Education).
 <br> <br>
  . Formação React.JS concluida na plataforma Alura, programa ONE (Oracle Next Education).
-
+<br> <br>
  . Conhecimento nas linguagens Java, Python e MySQL Oracle
-
+<br> <br>
  . Atualmente Estudando Inglês na plataforma Clever English Academy
 </h3>
 </br>
