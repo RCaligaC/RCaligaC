@@ -7,7 +7,7 @@
 </h2>
 </h3> 
  . Cursando Sistema para Internet na Descomplica Faculade Digital.
- <br>
+ <br> <br>
  . Formação Front End concluida na plataforma Alura, programa ONE (Oracle Next Education).
 
  . Formação React.JS concluida na plataforma Alura, programa ONE (Oracle Next Education).
