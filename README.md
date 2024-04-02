@@ -9,7 +9,7 @@
  . Cursando Sistema para Internet na Descomplica Faculade Digital.
  <br> <br>
  . Formação Front End concluida na plataforma Alura, programa ONE (Oracle Next Education).
-
+<br> <br>
  . Formação React.JS concluida na plataforma Alura, programa ONE (Oracle Next Education).
 
  . Conhecimento nas linguagens Java, Python e MySQL Oracle
