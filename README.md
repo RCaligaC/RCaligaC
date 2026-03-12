@@ -6,7 +6,7 @@
    Desenvolvedor FrontEnd Junior.
 </h2>
 </h3> 
- . Cursando Sistema para Internet na Descomplica Faculade Digital.
+ . Cursou Sistema para Internet na Descomplica Faculade Digital.
  <br> <br>
  . Formação Front End concluida na plataforma Alura, programa ONE (Oracle Next Education).
 <br> <br>
